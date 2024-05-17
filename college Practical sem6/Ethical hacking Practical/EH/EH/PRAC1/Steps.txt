@@ -1,0 +1,7 @@
+open chrome and search who.is
+
+click on this website link
+https://who.is/
+
+search any company name your data output is displayed on the screen
+www.apple.com or apple.com

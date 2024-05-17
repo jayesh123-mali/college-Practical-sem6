@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\college Practical\cloud computing Practical\currency\currency\bin\Debug\currency.exe.config
+C:\Users\Admin\Documents\college Practical\cloud computing Practical\currency\currency\bin\Debug\currency.exe
+C:\Users\Admin\Documents\college Practical\cloud computing Practical\currency\currency\bin\Debug\currency.pdb
+C:\Users\Admin\Documents\college Practical\cloud computing Practical\currency\currency\obj\Debug\currency.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\college Practical\cloud computing Practical\currency\currency\obj\Debug\currency.exe
+C:\Users\Admin\Documents\college Practical\cloud computing Practical\currency\currency\obj\Debug\currency.pdb

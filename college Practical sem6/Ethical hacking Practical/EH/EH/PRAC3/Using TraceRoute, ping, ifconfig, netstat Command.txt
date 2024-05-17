@@ -1,0 +1,6 @@
+Steps:
+
+Step 1: Type tracert command and type www.prestashop.com press “Enter”.
+Step 2: ping 192.168.0.1
+step 3: Type "if config" in Linux cmd
+step 4: Type "netstat" in Linux cmd

@@ -1,0 +1,32 @@
+TYPE THE COMMANDS IN COMMAND PROMPT :
+(i) ACK -sA (TCP ACK scan)
+Command : nmap -sA -T4 scanme.nmap.org
+
+(ii) SYN (Stealth) Scan (-sS)
+Command : nmap -p22,113,139 scanme.nmap.org
+
+(iii) FIN Scan (-sF)
+Command : nmap -sF -T4 192.168.0.5
+
+(iv) NULL Scan (-sN)
+Command : nmap –sN –p 22 scanme.nmap.org
+
+(v) XMAS Scan (-sX)
+Command : nmap -sX -T4 scanme.nmap.org
+
+
+(B) TYPE THE COMMANDS IN Nmap :
+(i) ACK -sA (TCP ACK scan)
+Command : nmap -sA -T4 scanme.nmap.org
+
+(ii) SYN (Stealth) Scan (-sS)
+Command : nmap -p22,113,139 scanme.nmap.org
+
+(iii) FIN Scan (-sF)
+Command : nmap -sF -T4 192.168.0.5
+
+(iv) NULL Scan (-sN)
+Command : nmap –sN –p 22 scanme.nmap.org
+
+(v) XMAS Scan (-sX)
+Command : nmap -sX -T4 scanme.nmap.org

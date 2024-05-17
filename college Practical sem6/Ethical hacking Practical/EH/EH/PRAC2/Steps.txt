@@ -1,0 +1,21 @@
+steps for 2a
+
+Use CryptTool to encrypt and decrypt passwords using RC4 algorithm.
+
+Using RC4. Encryption using RC4
+
+Decryption
+
+
+Steps for 2b
+AIM : Use Cain and Abel for cracking Windows account password using Dictionary attack and to decode wireless network passwords.
+
+Step 1 - Open Cain Software.
+Step 2 - Open Hash Calculator.
+Step 3 - Type text and click on calculate and Copy MD5 text.
+Step 4 - Select MD5 hashes in cracker and click on add to list and paste the MD5 text.
+Step 5 - It will get pasted in the first column.
+Step 6 - Then right click in text and select the dictionary attack.
+Step 7 - Dictionary attack will open and then Right click on the column and select add to list then add the wordlist.
+Step 8 - Start the dictionary attack and the output will be shown as 1 of 1 hashes cracked.
+

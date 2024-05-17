@@ -1,0 +1,9 @@
+﻿
+
+Step 1: Open a demo.testfire.net website in a new window and write the given below script in the search box of the website
+Code:-
+<script>alert("Mohamed Nabil TYCS 88")</script>
+
+﻿
+
+Step 2: Click on the GO button and a popup box get displayed in the web browser window and it will contain all the information written in the search box within the Script tag.
